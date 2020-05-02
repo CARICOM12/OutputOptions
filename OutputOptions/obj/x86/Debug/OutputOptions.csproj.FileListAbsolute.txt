@@ -1,0 +1,5 @@
+/home/alex/Projects/OutputOptions/OutputOptions/bin/Debug/OutputOptions.exe
+/home/alex/Projects/OutputOptions/OutputOptions/bin/Debug/OutputOptions.pdb
+/home/alex/Projects/OutputOptions/OutputOptions/obj/x86/Debug/OutputOptions.csprojAssemblyReference.cache
+/home/alex/Projects/OutputOptions/OutputOptions/obj/x86/Debug/OutputOptions.exe
+/home/alex/Projects/OutputOptions/OutputOptions/obj/x86/Debug/OutputOptions.pdb
